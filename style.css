@@ -77,3 +77,28 @@ header {
     font-size: 64px;
 
 }
+/* Action Style*/
+.act {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 116px;
+    gap: 220px;
+    margin: 116px 145px;
+}
+
+.act p {
+    font-size: 30px;
+    font-weight: normal;
+    color: #25243280;
+}
+
+.act h1 {
+    font-size: 50px;
+}
+
+/* Image style */
+.images img {
+    width: 430px;
+    height: 328px;
+    border-radius: 48px;
+}
