@@ -248,6 +248,32 @@ header {
 
 }
 
+/* Footer Style */
+.footer {
+    align-items: center;
+    text-align: center;
+    margin-top: 85px;
+    background-color: #FFFFFF;
+    padding: 104px 455px;
+    justify-content: center;
+
+    color: #8987A1;
+
+}
+.Under {
+    justify-content: space-between;
+    margin-top: 20px;
+    cursor: pointer;
+    display: flex;
+    list-style: none;
+
+}
+.color-grad-2 {
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: 800;
+}
+
 
 
 
