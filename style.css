@@ -29,7 +29,7 @@ header {
 }
 
 .color-button {
-    background-color: #4E47FF;
+    background-color: #1500fc;
     color: white;
     display: flex;
     justify-content: center;
@@ -40,8 +40,8 @@ header {
 }
 
 .color-button:hover {
-    background-color: rgb(255, 0, 34);
-    color: black;
+    background-color: rgb(0, 188, 54);
+    color: rgb(255, 255, 255);
     cursor: pointer;
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
@@ -176,6 +176,37 @@ header {
 
 .avater p, h4 {
     color: #B3B3B3;
+}
+
+/*Optional part style*/
+.Focus img {
+    width: 840px;
+    height: 364.77px;
+    border-radius: 48px;
+    margin-top: 20px;
+}
+
+.focus-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.Focus {
+    background-color: #FFFFFF;
+    border-radius: 14px;
+    margin: 150px 137px;
+    padding: 71px 150px;
+}
+
+.focus-container p {
+    margin-top: 0;
+    color: #00000080;
+}
+.focus-container h1{
+    font-size: 50px;
 }
 
 
