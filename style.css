@@ -130,5 +130,53 @@ header {
     margin: 0px;
     font-size: 80px;
 }
+.Userbox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 137px 150px;
+}
+
+.Review {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.users {
+    border: 1px solid #F2EDED;
+    background-color: #FFFFFF;
+    padding: 25px;
+    gap: 24px;
+    border-radius: 14px;
+}
+
+.Userbox h1 {
+    font-size: 42px;
+}
+.avater {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+}
+
+.userAvater {
+    border-radius: 50%;
+    width: 40%;
+    height: 40%;
+}
+
+.avater h4 {
+    color: #757575;
+}
+
+.avater p, h4 {
+    color: #B3B3B3;
+}
+
 
 
