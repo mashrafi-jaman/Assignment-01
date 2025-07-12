@@ -208,6 +208,46 @@ header {
 .focus-container h1{
     font-size: 50px;
 }
+.Touch {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 92px 150px 14px 150px;
+}
+
+.Touch h1 {
+    font-size: 97px;
+}
+
+.TouchInput {
+    display: flex;
+    flex-direction: column;
+}
+
+.TouchInput textarea {
+    box-sizing: border-box;
+    height: 135px;
+    width: 497px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 20px 32px;
+    border-color: #D6DDED;
+}
+
+.TouchInput input {
+    box-sizing: border-box;
+    margin-bottom: 19px;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border-color: #D6DDED;
+    
+
+}
+
 
 
 
